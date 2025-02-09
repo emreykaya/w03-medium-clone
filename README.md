@@ -24,7 +24,7 @@ Bu proje, Medium ana sayfasının temel bileşenlerini barındıran bir HTML ve 
    ```
 2. Proje klasörüne gidin:
    ```sh
-   cd medium-clone
+   cd w03-medium-clone
    ```
 3. Tarayıcınızda `index.html` dosyasını açarak projeyi görüntüleyebilirsiniz.
 
